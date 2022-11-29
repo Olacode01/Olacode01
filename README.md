@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olacode01
-- 👀 I’m interested in open source development (front end)
+- 👀 I’m interested in open source development (Both Front-end and Back-end)
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me +2349170487547/olagoketoheeb94@gmail.com
